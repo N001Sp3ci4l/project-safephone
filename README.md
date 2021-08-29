@@ -1,8 +1,10 @@
 # project-safephone
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //      I don't know what I'm doing so any help and suggestions are welcome.                                                                          
-//      ***Rules***                                                                                                                                    //      1. No Trolling
-//      2. Please feel free to chime in with Questions and if you can answer a question being asked, then please feel free to comment.                 //      3. Jokes are funny, but please try to maintain some level of casual professionalism. 
+//      ***Rules***                                                                                                                                   
+//      1. No Trolling
+//      2. Please feel free to chime in with Questions and if you can answer a question being asked, then please feel free to comment.                 
+//      3. Jokes are funny, but please try to maintain some level of casual professionalism. 
 //      4. Discrimination or hate speech of any kind will not be tolerated..... Unless we're talking bout Kyle's Mom, that don't count. 
 //      5. At the core we are all human beings with rights to be, feel, think, believe whatever we choose, please do not try to force your
 //         beliefs on anyone else, and be kind to one another. Everyone is important, and everyone matters, we are all equal, some of you
@@ -17,7 +19,7 @@
 //         your understanding of God to you is, I hope that many blessings fall upon thee. With that being said, Please feel free to contribute
 //         
 //      Insights, Suggestions, Tips, Collaboration based Communications: Email: ADayInTheLifeOfJeremy@Gmail.Com
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 
