@@ -14,7 +14,7 @@
 +       3. Jokes are funny, but please try to maintain some level of casual professionalism. 
 +       4. Discrimination or hate speech of any kind will not be tolerated..... Unless we're talking 
            about Kyle's Mom, that don't count. 
-+          5. At the core we are all human beings with rights to be, feel, think, believe whatever we choose, 
++       5. At the core we are all human beings with rights to be, feel, think, believe whatever we choose, 
            please do not try to force your belief's on anyone else, and be kind to one another. Everyone is 
            important, and everyone matters, we are all equal, some of you, myself not included are extremely 
            talented and your brainpower can help save a life with your contributions to this project. 
